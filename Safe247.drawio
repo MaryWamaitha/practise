@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T23:08:11.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="AZ05XWY631b2phTWJPG7" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T23:21:41.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="IWXDFte0uqOhJITFm9q0" version="13.7.7" type="github">
   <diagram id="YIhLA673CySWcGxgqSJr" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -80,15 +80,9 @@
             <mxPoint x="600" y="80" as="targetPoint" />
             <Array as="points">
               <mxPoint x="550" y="140" />
-              <mxPoint x="550" y="480" />
+              <mxPoint x="550" y="530" />
               <mxPoint x="550" y="80" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OJl8rYbP5pRNovjzFYsz-18" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="290" as="sourcePoint" />
-            <mxPoint x="450" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJl8rYbP5pRNovjzFYsz-19" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="igALqkXPBZ-Jk3Xrs15g-8">
@@ -98,12 +92,6 @@
             <Array as="points">
               <mxPoint x="590" y="190" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OJl8rYbP5pRNovjzFYsz-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="290" as="sourcePoint" />
-            <mxPoint x="450" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OJl8rYbP5pRNovjzFYsz-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
@@ -232,6 +220,67 @@
         </mxCell>
         <mxCell id="OJl8rYbP5pRNovjzFYsz-49" value="Select&amp;nbsp; accompanying contacts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-53" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="OJl8rYbP5pRNovjzFYsz-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="455" as="sourcePoint" />
+            <mxPoint x="1280" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-54" value="Select Contact Notification Option" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-55" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="OJl8rYbP5pRNovjzFYsz-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1370" y="455" as="sourcePoint" />
+            <mxPoint x="1400" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-56" value="Activate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-59" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="520" as="sourcePoint" />
+            <mxPoint x="600" y="520" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OJl8rYbP5pRNovjzFYsz-60" target="OJl8rYbP5pRNovjzFYsz-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-60" value="Walking Mode" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-61" value="Current Location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-62" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OJl8rYbP5pRNovjzFYsz-61" target="OJl8rYbP5pRNovjzFYsz-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="550" as="sourcePoint" />
+            <mxPoint x="960" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-63" value="Destination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-64" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OJl8rYbP5pRNovjzFYsz-63" target="OJl8rYbP5pRNovjzFYsz-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="550" as="sourcePoint" />
+            <mxPoint x="1080" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-65" value="Select contact Notification Option" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-68" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="OJl8rYbP5pRNovjzFYsz-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="540" as="sourcePoint" />
+            <mxPoint x="1240" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OJl8rYbP5pRNovjzFYsz-69" value="Activate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
